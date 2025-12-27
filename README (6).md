@@ -56,6 +56,7 @@ print("Area of a circle:", cir.calculate_area())
 ![alt text](<Screenshot 2025-12-27 141510.png>)
 
 ## Result
+Thus,the program has been executed successfully.
 # 🐍 Python OOP: Encapsulation with Private Members
 
 ## 🎯 AIM
@@ -103,6 +104,7 @@ rect.print_values()
 ![alt text](<Screenshot 2025-12-27 142029.png>)
 
 ## Result
+Thus,the program has been executed successfully.
 # 🐟 Method Overriding-Fish and Shark Class Inheritance in Python
 
 ## 🧠 AIM:
@@ -142,6 +144,9 @@ obj_hammerhead.type()
 ![alt text](<Screenshot 2025-12-27 142131.png>)
 
 ## RESULT
+Thus,the program has been executed successfully.
+
+
 # 🐍 Python OOP: Operator Overloading (Less Than `<`)
 
 ## 🎯 AIM
@@ -187,6 +192,7 @@ else:
 ![alt text](<Screenshot 2025-12-27 142459.png>)
 
 ## Result
+Thus,the program has been executed successfully.
 # # 🐍 Python OOP: Polymorphism with Classes
 
 ## 🎯 AIM
@@ -236,3 +242,4 @@ for func in (obj_beans,obj_mango):
 ![alt text](<Screenshot 2025-12-27 142425.png>)
 
 ## Result
+Thus,the program has been executed successfully.
