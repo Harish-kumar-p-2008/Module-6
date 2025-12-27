@@ -101,8 +101,7 @@ rect.print_values()
 ```
 
 ## Output
-![alt text](<Screenshot 2025-12-27 142029.png>)
-
+![alt text](<Screenshot 2025-12-27 1045456.jpeg>)
 ## Result
 Thus,the program has been executed successfully.
 # 🐟 Method Overriding-Fish and Shark Class Inheritance in Python
@@ -189,7 +188,7 @@ else:
 ```
 
 ## Output
-![alt text](<Screenshot 2025-12-27 142459.png>)
+![alt text](<Screenshot 2025-12-27 1047926.jpeg>)
 
 ## Result
 Thus,the program has been executed successfully.
